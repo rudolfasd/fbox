@@ -1,0 +1,81 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`YMAP ymapDelPlacemarkById 1`] = `
+[MockFunction] {
+  "calls": Array [
+    Array [
+      Object {
+        "geometry": Object {
+          "getCoordinates": [Function],
+        },
+        "options": Object {
+          "get": [Function],
+          "id": 4,
+          "index": 1,
+          "set": [Function],
+        },
+        "properties": Object {
+          "iconContent": 2,
+          "set": [Function],
+        },
+      },
+    ],
+  ],
+  "results": Array [
+    Object {
+      "type": "return",
+      "value": undefined,
+    },
+  ],
+}
+`;
+
+exports[`YMAP ymapPlacemarksReorder 1`] = `
+Array [
+  Object {
+    "geometry": Object {
+      "getCoordinates": [Function],
+    },
+    "options": Object {
+      "get": [Function],
+      "id": 2,
+      "index": 0,
+      "set": [Function],
+    },
+    "properties": Object {
+      "iconContent": 1,
+      "set": [Function],
+    },
+  },
+  Object {
+    "geometry": Object {
+      "getCoordinates": [Function],
+    },
+    "options": Object {
+      "get": [Function],
+      "id": 4,
+      "index": 1,
+      "set": [Function],
+    },
+    "properties": Object {
+      "iconContent": 2,
+      "set": [Function],
+    },
+  },
+  Object {
+    "geometry": Object {
+      "getCoordinates": [Function],
+    },
+    "options": Object {
+      "get": [Function],
+      "id": 6,
+      "index": 2,
+      "set": [Function],
+    },
+    "properties": Object {
+      "iconContent": 3,
+      "set": [Function],
+    },
+  },
+]
+`;

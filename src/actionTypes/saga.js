@@ -1,0 +1,4 @@
+export const SAGA_ADD_POINT = 'SAGA_ADD_POINT';
+export const SAGA_DEL_POINT = 'SAGA_DEL_POINT';
+export const SAGA_DEL_ALL_POINTS = 'SAGA_DEL_ALL_POINTS';
+export const SAGA_REORDER_LIST = 'SAGA_REORDER_LIST';

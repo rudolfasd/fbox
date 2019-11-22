@@ -1,0 +1,8 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`REACT COMPONENT <MapView /> MapView - snapshot 1`] = `
+<div
+  className="map-view"
+  id="MapView"
+/>
+`;

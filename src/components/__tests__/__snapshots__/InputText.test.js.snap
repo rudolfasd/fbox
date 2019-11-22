@@ -1,0 +1,16 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`REACT COMPONENT <InputText /> desc1 InputText - snapshot 1`] = `
+<div
+  className="input-text"
+>
+  <input
+    className="input-text-field"
+    maxLength="60"
+    onChange={[Function]}
+    onKeyPress={[Function]}
+    type="text"
+    value=""
+  />
+</div>
+`;

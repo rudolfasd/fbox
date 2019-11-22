@@ -1,0 +1,47 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`REACT COMPONENT <App /> - Snapshot App initialization page 1`] = `
+<div
+  className="App"
+>
+  <main>
+    <sidebar
+      is="div"
+    >
+      <div
+        className="input-text"
+      >
+        <input
+          className="input-text-field"
+          maxLength="60"
+          onChange={[Function]}
+          onKeyPress={[Function]}
+          type="text"
+          value=""
+        />
+      </div>
+      <div
+        className="sep"
+        onClick={[Function]}
+      >
+        <div
+          className="sep-line"
+        />
+        <div
+          className="sep-btn-del-all inactive"
+        />
+      </div>
+      <div
+        className="point-list-overflow"
+      >
+        <div
+          className="point-list"
+        />
+      </div>
+    </sidebar>
+    <div
+      className="map-view"
+    />
+  </main>
+</div>
+`;

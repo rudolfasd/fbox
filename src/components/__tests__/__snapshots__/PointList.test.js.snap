@@ -1,0 +1,125 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`REACT COMPONENT <PointList /> - Snapshots PointList snapshot 1`] = `
+<div
+  className="point-list-overflow"
+>
+  <div
+    className="point-list"
+  >
+    <div
+      className="item-wrap"
+    >
+      <div
+        className="item"
+      >
+        <div
+          className="item-num"
+        >
+          1
+        </div>
+        <div
+          className="item-text"
+        >
+          qwe
+        </div>
+        <div
+          className="item-remove"
+          onClick={[Function]}
+        />
+      </div>
+    </div>
+    <div
+      className="item-wrap"
+    >
+      <div
+        className="item"
+      >
+        <div
+          className="item-num"
+        >
+          2
+        </div>
+        <div
+          className="item-text"
+        >
+          asd
+        </div>
+        <div
+          className="item-remove"
+          onClick={[Function]}
+        />
+      </div>
+    </div>
+    <div
+      className="item-wrap"
+    >
+      <div
+        className="item"
+      >
+        <div
+          className="item-num"
+        >
+          3
+        </div>
+        <div
+          className="item-text"
+        >
+          zxc
+        </div>
+        <div
+          className="item-remove"
+          onClick={[Function]}
+        />
+      </div>
+    </div>
+    <div
+      className="item-wrap"
+    >
+      <div
+        className="item"
+      >
+        <div
+          className="item-num"
+        >
+          4
+        </div>
+        <div
+          className="item-text"
+        >
+          rty
+        </div>
+        <div
+          className="item-remove"
+          onClick={[Function]}
+        />
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`REACT COMPONENT <PointList /> - Snapshots SortableItem snapshot 1`] = `
+<div
+  className="item-wrap"
+>
+  <div
+    className="item"
+  >
+    <div
+      className="item-num"
+    >
+      1
+    </div>
+    <div
+      className="item-text"
+    >
+      Some text...
+    </div>
+    <div
+      className="item-remove"
+      onClick={[Function]}
+    />
+  </div>
+</div>
+`;

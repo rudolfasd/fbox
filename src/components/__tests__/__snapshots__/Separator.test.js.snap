@@ -1,0 +1,29 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`REACT COMPONENT <Separator /> Separator - snapshot if no points 1`] = `
+<div
+  className="sep"
+  onClick={[Function]}
+>
+  <div
+    className="sep-line"
+  />
+  <div
+    className="sep-btn-del-all inactive"
+  />
+</div>
+`;
+
+exports[`REACT COMPONENT <Separator /> Separator - snapshot if points exist 1`] = `
+<div
+  className="sep"
+  onClick={[Function]}
+>
+  <div
+    className="sep-line"
+  />
+  <div
+    className="sep-btn-del-all"
+  />
+</div>
+`;
